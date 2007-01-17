@@ -1,5 +1,5 @@
 /*
- * $Id: wce_types.h,v 1.2 2006/04/09 16:48:18 mloskot Exp $
+ * $Id$
  *
  * Equivalent of <sys/types.h> with data types declaration.
  *
